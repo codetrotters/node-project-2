@@ -16,4 +16,4 @@ Remember that you must have *TESTS*
 Challenge
 
 - Do a different interface for it (eg. vorpal(command line framework), html or electron)
-- Do some analytics of the people in your contact list (eg. gender ratio, email providers)
+- Do some analytics of the people in your contact list (eg. email providers)
